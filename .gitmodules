@@ -4,3 +4,6 @@
 [submodule "ThirdParty/FreeRTOS-Kernel-Community-Supported-Ports"]
 	path = portable/ThirdParty/Community-Supported-Ports
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports
+[submodule "portable/GCC/Posix"]
+	path = portable/GCC/Posix
+	url = https://github.com/alxhoff/FreeRTOS_Kernel_POSIX_port.git
